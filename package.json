@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/mb21/JSONedit#readme",
   "dependencies": {
-      "bootstrap": "^3.3",
+      "bootstrap": "^4.1.2",
       "angular": "^1.2",
       "angular-ui-sortable": "0.12.x"
   }
